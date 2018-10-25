@@ -1,0 +1,144 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: "svm-latex-cv.tex"
+geometry: margin=1in
+
+title: "CV"
+author: Jamaal William Green
+
+jobtitle: "PhD Candidate"
+address: "Toulan School of Urban Studies and Planning, Portland State University Portland, OR"
+fontawesome: yes
+email: jamgreen@pdx.edu
+github: jamgreen
+phone: "301 801 3109"
+#web: guinness.com
+updated: no
+
+#keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*Doctoral Candidate, Urban Studies*. (In progress)  \hfill 2011-.
+  Portland State University, Portland, OR (PSU)
+  Chair: Greg Schrock, PhD.
+  Committee: Lisa Bates, PhD; Megan Horst, PhD; Amy Lubitow, PhD. "Manufacturing in Place- The Role of Industrial Preservation in Manufacturing Employment".
+
+*Masters in City and Regional Planning* \hfill 2010.
+  University of North Carolina at Chapel Hill (UNC), Chapel Hill, NC
+  Field areas: economic development and workforce development policy
+  
+*Bachelors of Arts- Economics, minor City and Regional Planning*  \hfill 2007.
+  University of North Carolina at Chapel Hill (UNC), Chapel Hill, NC
+
+#Awards and Honors
+
+*Lincolnd Land Institute C. Lowell Harris Dissertation Fellow*  \hfill 2016-2017.
+
+*Portland State Dean's Award for Community Service* \hfill 2015.
+
+*National Science Foundation IGERT Awardee: Ecosystem Services in Urbanizing Regions* \hfill 2012-2015.
+
+
+# Publications
+
+## Peer Reviewed Articles
+
+Goodling, Erin, *Jamaal Green*, and Nathan McClintock. 2015. "Uneven Development of the Sustainable City: Shifting Captial in Portland, Oregon". **Urban Geography**. 36(4): 504-527. DOI: 10.1080/02723638.2015.1010791
+
+Schrock, Greg, Ellen Bassett, and *Jamaal Green*. 2015. "Pursuing Equity and Justice in a Changing Climate: Assessing Equity in Local Climate and Sustainability Plans in U.S. Cities". 35(3): 282-295. **Journal of Planning Education and Research**. DOI:10.1177/0739456X15580022 
+
+
+## Reports and White Papers
+
+Jamaal Green, Greg Schrock, Jenny Liu. August 2016. ["Portland's Food Economy Trends and Contributions"](https://www.portlandoregon.gov/bps/article/548390). A report commissioned by the City of Portland.
+
+## Conference Papers and Presentations
+
+
+Lisa Bates and **Jamaal Green**. April 2015. "Race, Racism, and Urban Planning: Lots to Say, but Missing the Point". 45th Annual Conference of the Urban affairs Association. Miami, FL. 
+
+Green, Jamaal. March 2014. "Wage Differences in the Temporary Services Industry: The Role of Occupation and Race". 44th Annual Conference of the Urban Affairs Association. San Antonio, TX. 
+
+Green, Jamaal, Greg Schrock and Ellen Basset. November 2012. "Social Equity, Green Jobs and Local Climate Action Planning". 53rd Annual Conference of the American Collegiate Schools of Planning. University of Cincinatti. 
+
+Green, Jamaal, Erin Goodling and Nathan McClintock. August 2012. "Ecosystem Services and Political Ecology: An Integrated Framework for Urban Environmental Research". Ecological Society of America Annual Meeting. Portland, OR. (Poster)
+
+##  Journalistic Pieces
+
+Jamaal Green. March 14, 2018. ["Black Lives Matter Leader DeRay Mckesson Comes to Portland, Seeking a New Power on Social Media"](https://www.wweek.com/news/2018/03/14/black-lives-matter-founder-deray-mckesson-comes-to-portland-seeking-a-new-power-on-social-media/). *Willamette Week*.
+
+Jamaal Green. September 29, 2016. ["The decades of racism ignored by the White House's new housing report"](https://splinternews.com/the-decades-of-racism-ignored-by-the-white-house-s-new-1793862292). *Splinter News*.
+
+# Research Experience
+
+Understanding Economic and Business Impacts of Street Improvements for Bicycle and Pedestrian Mobility. Lead Researcher- Jenny Liu, PhD                                              \hfill Present 
+ 
+City that Works for Everyone. Lead Researcher - Greg Schrock, PhD. \hfill Summer 2017.
+
+Northstar Self-Sufficiency Estimates. Lead Researcher- Liza Morehead, Institute for Metropolitan Studies.                             \hfill Fall 2016.
+
+ 
+Genesis Evaluation. Lead Researcher- Greg Schrock, PhD.             \hfill AY2015-2016.
+ 
+Climate Action Plan Reviews. Lead Researcher- Greg Schrock, Phd. \hfill AY2011-2013.
+  
+
+# Teaching
+
+Adjunct Instructor, PSU UNST 234C, Healthy People/Healthy Places  \hfill Spring 2017.
+
+TA, PSU USP 311U, Introduction to Urban Planning \hfill Fall 2011, 2012 Winter 2015. 
+
+TA, PSU USP 452, GIS for Community Development \hfill Fall 2014 
+
+TA, PSU USP 634, Data Analysis I                 \hfill  Spring 2015, 2016, 2017.
+
+* Introductory statistics course urban studies graduate students. In addition to standard TA duties I transitioned all lab materials from SPSS to R and taught R in labs
+
+TA, USP 654, Data Analysis II                   \hfill Fall 2015
+
+* Linear modeling data analysis course required for urban studies graduate students. Translated lab materials and examples to R from SPSS and lead labs in R.
+
+# Invited Talks and Presentations 
+
+Guest Lecturer for course Geography 486/687 "Advanced GIS" at University Maryland- Baltimore County at the invitation of Dillon Mahmoudi, PhD. September 26, 2018. The topic of the lecture was an introduction to spatial databases and advanced spatial analysis.
+
+Guest lecture for course PSU GEOG 474/575, Digital Compilation and Database Design at Portland State University at the invitation of instructor Jackson Voelkel on February 15, 2017. The topic was on the integration of R and PostGIS. Slides and lecture materials found [here](https://github.com/jamgreen/r_to_postgis).
+
+Presenter at the Oregon 2017 Census Data Users Meeting. September 20, 2017. "A Pragmatic Approach to Census Analysis: Tidycensus and R". Session recording found [here](https://echo360.org/section/b1b6fa90-7e88-4e6e-a2c8-86b99df3402b/public).
+
+
+Invited commentator on Think Out Loud on Oregon Public Broadcasting. October 23, 2015. Recording found [here](http://www.opb.org/radio/programs/thinkoutloud/segment/yes-portland-is-indeed-a-foodie-city/). 
+
+Panelist on "East Portland Represent" panel hosted by the City Club of Portland. August 13, 2015.
+
+Panelist on "Future Planning" panel at FutureBike conference hosted by the American League of Bicyclists. Pittsburgh, PA, September 2014. Session recording found [here](http://bikeleague.org/sites/default/files/Future%20Planning%20-%209112014%20416%20PM.m4a)
+
+#Service
+
+## Academic
+
+Portland State University Strategic Planning Development Team \hfill AY 2014-2015.
+
+## Community
+
+Oregon Shores Conservation Coalition, Board Member            \hfill Present.
+
+Oregon Environmental Council, Emerging Leaders Board, Member  \hfill 2014-2017.
+
+## Memberships/Affiliations
+
+American Planning Association, American Collegiate Schools of Planning, Association of American Geographers, Regional Studies Association, American Association for the Advancement of Science
+
+
+

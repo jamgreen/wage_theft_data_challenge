@@ -1,0 +1,56 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: "svm-latex-cv.tex"
+geometry: margin=1in
+
+title: "CV"
+author: Jamaal William Green
+
+jobtitle: "PhD Candidate"
+address: "Toulan School of Urban Studies and Planning, Portland State University Portland, OR"
+fontawesome: yes
+email: jamgreen@pdx.edu
+github: jamgreen
+phone: "301 801 3109"
+#web: guinness.com
+updated: no
+
+#keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*Doctoral Candidate, Urban Studies*. (In progress)  \hfill 2011-.
+  Portland State University, Portland, OR (PSU)
+  Chair: Greg Schrock, PhD.
+  Committee: Lisa Bates, PhD; Megan Horst, PhD; Amy Lubitow, PhD. "Manufacturing in Place- The Role of Industrial Preservation in Manufacturing Employment".
+
+# Publications
+
+Goodling, Erin, *Jamaal Green*, and Nathan McClintock. 2015. "Uneven Development of the Sustainable City: Shifting Captial in Portland, Oregon". **Urban Geography**. 36(4): 504-527. DOI: 10.1080/02723638.2015.1010791
+
+# Technical and Research Experience
+
+## Programming Languages
+
+* R: Intermediate to expert user. I use R as part of my everyday work for data collection, cleaning, visualization, modeling and writing. Some specific packages of note I are the tidyverse suite of packages, sf, simple features, package for spatial analysis, the survey package for complex survey analysis and tidycensus for ACS data collection
+
+## Open Source
+
+* I currently maintain an R package, [lehdr](https://github.com/jamgreen/lehdr), that queries the LODES (an origin-destination dataset) dataset from the LEHD (Longitudinal Employee Household Dynamics) project in census. 
+
+## Research Projects
+
+Understanding Economic and Business Impacts of Street Improvements for Bicycle and Pedestrian Mobility.
+
+* Responsible for gathering and cleaning both public and proprietary from our city partners. I set up a fully version controlled workflow for my research team, centralized data into one large spatial database, and standardized reports through writing functions for plots and creating markdown templates in Word. Finally, I ran difference-in-difference and interrupted time series models for policy evaluation.
+
+
